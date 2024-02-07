@@ -43,7 +43,7 @@ The remaining files contain the structures and functions auxiliary functions use
 **To compile each of the programs, just use the makefile by typing the "make" command in the console.**
 **Then each of the programs can be run by the following command:**
    ```
-   ./program_name number of reader threads number of writer threads option "-info"
+   ./program_name {number_of_reader_threads} {number_of_writer_threads} {option "-info"}
    ```
 
 > [!NOTE]
